@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542268693 source:c:\users\thunderzong\desktop\algorithmm\test\20181115arrayqueue\arrayqueue\main.cpp
+	<iostream>
+	<cstdlib>
+

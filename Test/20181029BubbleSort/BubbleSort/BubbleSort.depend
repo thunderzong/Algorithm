@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540887483 source:c:\users\thunderzong\desktop\algorithmm\test\20181029bubblesort\bubblesort\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<Algorithm>
+

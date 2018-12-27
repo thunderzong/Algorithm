@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543044486 source:c:\users\administrator\desktop\algorithmm\20181124copyrandpointerlinkedlist\randpointer\main.cpp
+	<iostream>
+	<cstdlib>
+	<map>
+

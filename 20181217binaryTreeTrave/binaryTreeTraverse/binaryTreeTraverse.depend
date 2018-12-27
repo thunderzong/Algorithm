@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545025521 source:c:\users\administrator\desktop\algorithmm\20181217binarytreetrave\binarytreetraverse\main.cpp
+	<iostream>
+	<stack>
+	<cstdlib>
+

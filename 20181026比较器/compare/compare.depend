@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540555065 source:c:\users\thunderzong\desktop\algorithmm\20181026±È½ÏÆ÷\compare\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cstdio>
+

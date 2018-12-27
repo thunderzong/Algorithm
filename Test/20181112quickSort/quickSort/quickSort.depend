@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542030273 source:c:\users\thunderzong\desktop\algorithmm\test\20191112quicksort\quicksort\main.cpp
+	<iostream>
+	<cstdlib>
+

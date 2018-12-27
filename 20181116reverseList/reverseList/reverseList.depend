@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542525597 source:c:\users\thunderzong\desktop\algorithmm\20181116reverselist\reverselist\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
